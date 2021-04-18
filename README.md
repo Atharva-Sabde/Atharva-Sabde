@@ -1,4 +1,4 @@
-### Hola!, I am [Atharva_Sabde]a.k.a Cosmicdust(https://www.linkedin.com/in/atharvasabde/) ![ohh yess](https://user-images.githubusercontent.com/78366282/113204158-93569800-928a-11eb-867a-f7d700f96aa9.gif)
+### Hola!, I am [Atharva_Sabde] a.k.a Cosmicdust(https://www.linkedin.com/in/atharvasabde/) ![ohh yess](https://user-images.githubusercontent.com/78366282/113204158-93569800-928a-11eb-867a-f7d700f96aa9.gif)
 
 👋
 
