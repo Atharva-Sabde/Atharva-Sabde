@@ -14,7 +14,7 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
 <hr>
 <hr>
 
-<h1 align="center">  <Technologies/> </h1>
+<h1 align="center">  Technologies </h1>
 
 ![](https://img.shields.io/badge/>-Ubuntu-informational?style=flat&logo=ubuntu&color=blueviolet)
 ![](https://img.shields.io/badge/>-Windows-informational?style=flat&logo=windows&color=blueviolet)
@@ -40,7 +40,6 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark" />
 </a
 <!--![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark)    -->
-
 <a href="https://github.com/Atharva-Sabde/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark" />
 </a>
