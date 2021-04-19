@@ -13,7 +13,8 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=blueviolet)
 
-
+<hr>
+<hr>
 <a href="https://github.com/Atharva-Sabde/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark" />
 </a
@@ -32,7 +33,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cosmicdust Playing" width="700" align=center/>](https://open.spotify.com/user/31uh7ommauxyosot3kcci2vsg3me/playlist/4uYLX5X5hwi4Y0rziEuIeD?si=QAIITbpTT7mL8q1l5azEJQ)
 
 
-![](https://img.shields.io//reddit/user-karma/:variant/:user)
+
 
 
 
