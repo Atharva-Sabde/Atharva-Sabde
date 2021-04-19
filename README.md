@@ -3,6 +3,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AtharvaASabde?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS4CH&screen_name=Cosmicdust) 
 
+![Linkedin immage] (Cosmicdust (2).png)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cosmicdust Playing" width="350" />](https://open.spotify.com/user/31uh7ommauxyosot3kcci2vsg3me/playlist/4uYLX5X5hwi4Y0rziEuIeD?si=QAIITbpTT7mL8q1l5azEJQ)
