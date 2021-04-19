@@ -4,6 +4,8 @@
 
 ![image](https://github.com/Atharva-Sabde/Atharva-Sabde/blob/8ea58c6b0199ed56559f057d5233281bdd9528ec/Cosmicdust%20(2).png)
 
+<hr>
+<hr>
 
 <h1 align="center">  Technologies </h1>
 
@@ -27,6 +29,9 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark)](https://github.com/Atharva-Sabde/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<hr>
+<hr>
 
 ### Spotify Playing 🎧
 
