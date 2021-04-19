@@ -4,12 +4,6 @@
 
 ![image](https://github.com/Atharva-Sabde/Atharva-Sabde/blob/8ea58c6b0199ed56559f057d5233281bdd9528ec/Cosmicdust%20(2).png)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cosmicdust Playing" width="350" />](https://open.spotify.com/user/31uh7ommauxyosot3kcci2vsg3me/playlist/4uYLX5X5hwi4Y0rziEuIeD?si=QAIITbpTT7mL8q1l5azEJQ)
-
-
-![](https://img.shields.io//reddit/user-karma/:variant/:user)
 
 <h1 align="center">  Technologies </h1>
 
@@ -33,7 +27,12 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cosmicdust Playing" width="700" align=center/>](https://open.spotify.com/user/31uh7ommauxyosot3kcci2vsg3me/playlist/4uYLX5X5hwi4Y0rziEuIeD?si=QAIITbpTT7mL8q1l5azEJQ)
+
+
+![](https://img.shields.io//reddit/user-karma/:variant/:user)
 
 
 
