@@ -18,6 +18,14 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=blueviolet)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark)](https://github.com/Atharva-Sabde/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
+
 
 
 <!--
