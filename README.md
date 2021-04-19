@@ -1,3 +1,6 @@
+<!-- Lmao!  I CAUGHT YOU!, FUCKIN CHEATER! 
+GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO COLLECT THE DATA!!!!!!!!! -->
+
 ### Hola!, I am [Atharva_Sabde](https://www.linkedin.com/in/atharvasabde/) ![ohh yess](https://user-images.githubusercontent.com/78366282/113204158-93569800-928a-11eb-867a-f7d700f96aa9.gif)                       a.k.a Cosmicdust
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AtharvaASabde?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS4CH&screen_name=Cosmicdust) 
@@ -43,7 +46,6 @@
 </a>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark)](https://github.com/Atharva-Sabde/github-readme-stats)
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <hr>
@@ -54,12 +56,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cosmicdust Playing" width="700" align=center/>](https://open.spotify.com/user/31uh7ommauxyosot3kcci2vsg3me/playlist/4uYLX5X5hwi4Y0rziEuIeD?si=QAIITbpTT7mL8q1l5azEJQ)
 
 
-
-
-
-
-
-<!--
+<!--   Completed on 19th april 2021
 **Atharva-Sabde/Atharva-Sabde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
