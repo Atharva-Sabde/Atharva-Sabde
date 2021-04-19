@@ -5,7 +5,8 @@
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ![image](https://github.com/Atharva-Sabde/Atharva-Sabde/blob/8ea58c6b0199ed56559f057d5233281bdd9528ec/Cosmicdust%20(2).png)
-
+![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 <hr>
 <hr>
 
