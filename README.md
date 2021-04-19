@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=blueviolet)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Sabde)](https://github.com/Atharva-Sabde/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!--
 **Atharva-Sabde/Atharva-Sabde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
