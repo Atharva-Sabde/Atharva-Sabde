@@ -14,14 +14,14 @@
 
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=blueviolet)
-![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=C++&color=blueviolet)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c++&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=blueviolet)
 
+![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&color=blueviolet)
+![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&color=blueviolet)
+![](https://img.shields.io/badge/Web-Javascript-informational?style=flat&logo=javascript&color=blue)
 
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=blueviolet)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=blueviolet)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=blueviolet)
-[![Generic badge](https://img.shields.io/badge/OS-Wi-<COLOR>.svg)](https://shields.io/)
+<!-- [![Generic badge](https://img.shields.io/badge/OS-Wi-<COLOR>.svg)](https://shields.io/) -->
 <hr>
 <hr>
 <a href="https://github.com/Atharva-Sabde/github-readme-stats">
