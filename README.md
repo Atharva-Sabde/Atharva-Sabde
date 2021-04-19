@@ -20,7 +20,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atharva-Sabde&repo=chartreuse-dark)](https://github.com/Atharva-Sabde/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atharva-Sabde&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 <!--
 **Atharva-Sabde/Atharva-Sabde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
