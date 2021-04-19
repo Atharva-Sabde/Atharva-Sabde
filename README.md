@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AtharvaASabde?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS4CH&screen_name=Cosmicdust) 
 
-![image](Cosmicdust (2).png)
+![image](https://github.com/Atharva-Sabde/Atharva-Sabde/blob/8ea58c6b0199ed56559f057d5233281bdd9528ec/Cosmicdust%20(2).png)
 
 ### Spotify Playing 🎧
 
