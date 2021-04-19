@@ -26,12 +26,12 @@
 <!--![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark)    -->
 
 <a href="https://github.com/Atharva-Sabde/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark" />
 </a>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark)](https://github.com/Atharva-Sabde/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
