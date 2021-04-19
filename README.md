@@ -1,5 +1,4 @@
-### Hola!, I am [Atharva_Sabde](https://www.linkedin.com/in/atharvasabde/) ![ohh yess](https://user-images.githubusercontent.com/78366282/113204158-93569800-928a-11eb-867a-f7d700f96aa9.gif)
-###  a.k.a Cosmicdust
+### Hola!, I am [Atharva_Sabde](https://www.linkedin.com/in/atharvasabde/) ![ohh yess](https://user-images.githubusercontent.com/78366282/113204158-93569800-928a-11eb-867a-f7d700f96aa9.gif)  ###  a.k.a Cosmicdust
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AtharvaASabde?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS4CH&screen_name=Cosmicdust) 
 
