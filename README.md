@@ -20,7 +20,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atharva-Sabde&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde)](https://github.com/Atharva-Sabde/github-readme-stats)
 
 
 
