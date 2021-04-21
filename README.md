@@ -4,10 +4,13 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
 ### Hola!, I am [Atharva_Sabde](https://www.linkedin.com/in/atharvasabde/) ![ohh yess](https://user-images.githubusercontent.com/78366282/113204158-93569800-928a-11eb-867a-f7d700f96aa9.gif)                       a.k.a Cosmicdust
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AtharvaASabde?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS4CH&screen_name=Cosmicdust) 
+[![Telegram Join](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acer_nitro5_2020_discussion)
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvaa.sabde@gmail.com)
 ![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+[![Codecademy](https://img.shields.io/badge/{FIRST}-{SECONDARY}-{HEX-COLOR}?style=for-the-badge&logo={ICON}&logoColor=white)](https://www.codecademy.com/learn)
 
 ![image](https://github.com/Atharva-Sabde/Atharva-Sabde/blob/8ea58c6b0199ed56559f057d5233281bdd9528ec/Cosmicdust%20(2).png)
 
@@ -40,7 +43,6 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark" />
 </a
 <!--![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Sabde&theme=chartreuse-dark)    -->
-
 <a href="https://github.com/Atharva-Sabde/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Sabde&layout=compact&theme=chartreuse-dark" />
 </a>
