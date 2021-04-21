@@ -10,6 +10,8 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
 ![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+[![Codecademy](https://img.shields.io/badge/{FIRST}-{SECONDARY}-{HEX-COLOR}?style=for-the-badge&logo={ICON}&logoColor=white)](https://www.codecademy.com/learn)
+
 ![image](https://github.com/Atharva-Sabde/Atharva-Sabde/blob/8ea58c6b0199ed56559f057d5233281bdd9528ec/Cosmicdust%20(2).png)
 
 <hr>
