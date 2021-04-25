@@ -52,6 +52,7 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Sabde&theme=chartreuse-dark)](https://git.io/streak-stats)
 [![image](https://media0.giphy.com/media/TfFkYL3Wn2dHA7O8CM/200w.webp)
 [![Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=Atharva-Sabde&theme=react-dark&line=7fff00)
+<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <hr>
