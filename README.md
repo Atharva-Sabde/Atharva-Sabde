@@ -61,6 +61,7 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cosmicdust Playing" width="700" align=center/>](https://open.spotify.com/user/31uh7ommauxyosot3kcci2vsg3me/playlist/4uYLX5X5hwi4Y0rziEuIeD?si=QAIITbpTT7mL8q1l5azEJQ)
 
+[![image](https://github.com/Atharva-Sabde/Atharva-Sabde/blob/main/Silicon%20valley.gif?raw=true)
 
 <!--   Completed on 19th april 2021
 **Atharva-Sabde/Atharva-Sabde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
