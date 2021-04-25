@@ -52,11 +52,11 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Sabde&theme=chartreuse-dark)](https://git.io/streak-stats)
 [![image](https://media0.giphy.com/media/TfFkYL3Wn2dHA7O8CM/200w.webp)
 
-
-
-<hr>
-<hr>
 [![Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=Atharva-Sabde&theme=react-dark)
+
+
+<hr>
+<hr>
 
 ### Spotify Playing 🎧
 
