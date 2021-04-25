@@ -56,6 +56,7 @@ GO AND WRITE YOUR OWN CODE!   DON'T JUST COPY PASTE THIS, IT TOOK ME HOURS TO CO
 
 <hr>
 <hr>
+[![Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=Atharva-Sabde&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Spotify Playing 🎧
 
